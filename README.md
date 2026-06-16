@@ -1,1 +1,1 @@
-# jits-day-1
+Day 1
